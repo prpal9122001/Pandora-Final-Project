@@ -19,6 +19,16 @@ It implements the following features:
 * It focuses on the information of movies, and helps people to find a movie by different key words then recommend some similar movies to users
 * Just enter one movie name then it will recommend 5 movies at the same time.
 
+## Recommendation system and algorithm explained
+
+* Nearest Neighbours:
+  
+  I have used nearest neighbours algorithm to find the most related list of movies to a movie name. This algorithm takes argument named **'metric'**.I have assigned this argument to **'cosine'**. If two movies are highly related then the cos value will be equal to 1 as angle between them will be 0 degree. If movies are not related then angle between them will be 90 degree and value will equal to 0 (cos90=0).
+  
+![](Images/cosine.png)
+
+**READ MORE AT = Algorithm_and_Recommender_sys.ipynb in repository**
+
 # Agile development Methodology
 
 * I divided the one-month program into four sprints. Each sprint consisted of one week period.
@@ -31,15 +41,11 @@ It implements the following features:
 
 Trying my best to complete the given challenge and provide solution to the problem statement chosen by me.
 
-## Recommendation system and algorithm explained
+## STEPS TO RUN 
 
-* Nearest Neighbours:
-  
-  I have used nearest neighbours algorithm to find the most related list of movies to a movie name. This algorithm takes argument named **'metric'**.I have assigned this argument to **'cosine'**. If two movies are highly related then the cos value will be equal to 1 as angle between them will be 0 degree. If movies are not related then angle between them will be 90 degree and value will equal to 0 (cos90=0).
-  
-![](Images/cosine.png)
-
-**READ MORE AT = Algorithm_and_Recommender_sys.ipynb in repository**
+* Open Pandora Movie Recommendation.ipynb first and run it by following instructions in the demo video as well as notebook itself.
+* Next open app.ipynb and run it.
+* Final cell will now generate a url which will redirect to desired website application. 
 
 ## Platform Used
 
