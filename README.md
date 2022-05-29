@@ -26,3 +26,11 @@ It implements the following features:
 
 * **Streamlit** - It is a powerful tool to create simple web applications in Python. It is very convenient for people without web development background.
 
+# Dataset used
+I have used TMDB 5000 movie dataset.              
+This dataset containd two csv files:
+  1. tmdb_5000_credits.csv
+  2. tmdb_5000_movies.csv
+
+Link to dataset: https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
