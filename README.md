@@ -4,6 +4,8 @@
 
 Who has never wanted to find a great movie to see in a weekend or holiday? Who has never started to watch a movie thinking it would be good but it was terrible? Pandora can help you to stop to lose your time trying to find a good one.
 
+**Read every comment carefully in the notebook prvided.Also kindly replay and adjust video of demonstration part as per your convinience**
+
 ## About
 
 PANDORA is a Movie Recommendation content based App made fully on cloud using cosine similarity with fast result to solve your problem of finding what movie to watch today with friends,family & colleagues.
