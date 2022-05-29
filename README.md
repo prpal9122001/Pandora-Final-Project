@@ -45,11 +45,8 @@ Link to dataset: https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
 # Recommendation system and algorithm explained
 
-<p align="center">
-<a href="https://unite-apurva.herokuapp.com/landing">
-logo"/>
-</a>
-</p>
+Link = "Algorithm_and_Recommender_sys.ipynb"
+
 
 
 
