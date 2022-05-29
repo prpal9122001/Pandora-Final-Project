@@ -37,7 +37,7 @@ Trying my best to complete the given challenge and provide solution to the probl
   
 ![](Images/cosine.png)
 
-**READ MORE AT = Algorithm_and_Recommender_sys.ipynb in reposit**
+**READ MORE AT = Algorithm_and_Recommender_sys.ipynb in repository**
 
 ## Platform Used
 
