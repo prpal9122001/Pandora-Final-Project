@@ -1,4 +1,4 @@
-# PANDORA - Movie Recommendation Webapp
+# PANDORA - Cloud Based Movie Recommendation Webapp
 ## Submission for Microsoft Engage 2022 🌟
 <img src="Logo.png" alt="drawing" width="300"/>
 
@@ -6,7 +6,7 @@ Who has never wanted to find a great movie to see in a weekend or holiday? Who h
 
 ## About
 
-PANDORA is a Movie Recommendation content based App using cosine similarity with fast result to solve your problem of finding what movie to watch today with friends,family & colleagues.
+PANDORA is a Movie Recommendation content based App made fully on cloud using cosine similarity with fast result to solve your problem of finding what movie to watch today with friends,family & colleagues.
 
 Developed during my menteeship at [Microsoft Engage 2022](https://acehacker.com/microsoft/engage2022/)
 
