@@ -21,5 +21,8 @@ It implements the following features:
 
 ## Platform Used
 
-* Google Cloud - This whole app is based on Google Cloud reason being that I wanted to build an app  that is easy to test and deploy as well as function that does not require many 
+* **Google Cloud** - This whole app is based on Google Cloud reason being that I wanted to build an app  that is easy to test and deploy as well as function that does not require many installations as well as doesn't use space on my device. Using its free and powerful computation service helps us in build up and deployment on cloud platform.The advantage of running a web app on Colab is that the app is not limited by the limited computation of free tier accounts, you can even have a runtime with GPU.However, the major drawback of it is the URL is only temporary, once the Colab is disconnected, the URL will be disabled. So you can   only share the link for a short period (<12hrs). But I think it is still a good approach to quickly deploy, test, and share a web app prototype.
+
+
+* **Streamlit** - It is a powerful tool to create simple web applications in Python. It is very convenient for people without web development background.
 
