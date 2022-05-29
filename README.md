@@ -17,9 +17,27 @@ It implements the following features:
 * It focuses on the information of movies, and helps people to find a movie by different key words then recommend some similar movies to users
 * Just enter one movie name then it will recommend 5 movies at the same time.
 
+# Agile development Methodology
+
+* I divided the one-month program into four sprints. Each sprint consisted of one week period.
+* I categorized my sprints into four sections - exploration, basic working model, features creation, adapt phase.
+* We were given a problem statement in which we had to make a web app that could connect two users over a video call.
+* After researching, I found that most of the recommendation apps use Cosine similarity.
+* In the second week, I created an basic idea of what kinda work I want my app to do.
+* In the third week, I scaled it and after some reconsiderations I worked on the challenge and added custom functionalities. 
+* In the fourth week, ie. Adapt phase, we had to create a web app that could give me accurate answers from database without disrupting the flow.
+
+Trying my best to complete the given challenge and provide solution to the problem statement chosen by me.
+
 ## Recommendation system and algorithm explained
 
-Link = "Algorithm_and_Recommender_sys.ipynb"
+* Nearest Neighbours:
+  
+  I have used nearest neighbours algorithm to find the most related list of movies to a movie name. This algorithm takes argument named **'metric'**.I have assigned this argument to **'cosine'**. If two movies are highly related then the cos value will be equal to 1 as angle between them will be 0 degree. If movies are not related then angle between them will be 90 degree and value will equal to 0 (cos90=0).
+  
+![](Images/cosine.png)
+
+**READ MORE AT = Algorithm_and_Recommender_sys.ipynb in reposit**
 
 ## Platform Used
 
