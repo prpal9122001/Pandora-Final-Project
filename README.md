@@ -1,4 +1,4 @@
-# PANDORA - Cloud Based Movie Recommendation Webapp
+# "PANDORA" - Cloud Based Movie Recommendation Webapp
 ## Submission for Microsoft Engage 2022 🌟
 <img src="Logo.png" alt="drawing" width="300"/>
 
