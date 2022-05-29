@@ -43,9 +43,17 @@ Link to dataset: https://www.kaggle.com/tmdb/tmdb-movie-metadata
 * Sklearn
 * Streamlit
 
-# Recommendation system and algorithm explained
+## Recommendation system and algorithm explained
 
 Link = "Algorithm_and_Recommender_sys.ipynb"
+
+## Connect with me
+Drop by and say hello!
+
+[<img height="30" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
+[linkedIn]: https://www.linkedin.com/in/preeti-pal-1109
+
 
 
 
