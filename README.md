@@ -12,12 +12,14 @@ Developed during my menteeship at [Microsoft Engage 2022](https://acehacker.com/
 
 An open movie recommendation API that has been built using Google Colab and deployed on Streamlit localtunnel.
 
-
-
 It implements the following features:
 
 * It focuses on the information of movies, and helps people to find a movie by different key words then recommend some similar movies to users
 * Just enter one movie name then it will recommend 5 movies at the same time.
+
+## Recommendation system and algorithm explained
+
+Link = "Algorithm_and_Recommender_sys.ipynb"
 
 ## Platform Used
 
@@ -43,9 +45,21 @@ Link to dataset: https://www.kaggle.com/tmdb/tmdb-movie-metadata
 * Sklearn
 * Streamlit
 
-## Recommendation system and algorithm explained
+## Requirement
+* Sign In to Google Colab and Google Drive
+* Upload Logo,Movie_list().pkl and similarity().pkl on google drive 
+* You can get Movie_list().pkl and similarity().pkl by running end cell from Pandora Movie Recommendation notebook
+* In case of error in streamlit run try to rerun the cell
 
-Link = "Algorithm_and_Recommender_sys.ipynb"
+## Features and Interfaces
+
+![Screen Shot 2022-05-29 at 4 28 55 AM](https://user-images.githubusercontent.com/72788936/170849426-fc5e285f-ae48-44b6-b611-018a9183532e.png)
+
+![Screen Shot 2022-05-29 at 4 28 36 AM](https://user-images.githubusercontent.com/72788936/170849424-13aead78-65d6-44c4-97f7-2216e8a99f5d.png)
+
+![Screen Shot 2022-05-29 at 4 28 55 AM](https://user-images.githubusercontent.com/72788936/170849496-2c7fea94-d35f-491a-89ae-55ff7525885f.png)
+
+![Screen Shot 2022-05-29 at 4 29 19 AM](https://user-images.githubusercontent.com/72788936/170849414-203cc022-3e60-4dbe-8c71-e46b8deb6614.png)
 
 ## Connect with me
 Drop by and say hello!
